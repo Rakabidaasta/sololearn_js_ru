@@ -1,3 +1,6 @@
+// Trip Planner 
+// Kvist Tatyana, 2021. kvist_tatyana@mail.ru
+
 function main() {
     var distance = parseInt(readLine(), 10);
 
